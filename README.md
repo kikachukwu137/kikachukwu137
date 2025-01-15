@@ -7,11 +7,11 @@ I'm a Software Engineer, who is  studying Software Engineering  at Altschool. I'
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 💡 Fun fact: Graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 🌱 Proficient in HTML5, CSS, JavaScript, React and Nodejs
 - 😊 I’m looking for help with open source projects,  internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume]() and contact me by emailing egwaoje.daniel@gmail.com.
+- 💼 Job interests: Software Engineer, Frontend Engineer or Backend Engineer (Intern or Junior level).
+- 📫 You can [view my resume](https://docs.google.com/document/d/1Ck-jzcz977D-MWtU1wbUxsVHR5vwXxrq/edit?usp=sharing&ouid=115635653413489596431&rtpof=true&sd=true) and contact me by emailing egwaoje.daniel@gmail.com.
 
 ---
 
