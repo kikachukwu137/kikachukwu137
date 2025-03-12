@@ -15,10 +15,15 @@ I'm passionate and skilled developer with a solid foundation in HTML, CSS, JavaS
 
 ---
 🛠 Tech Stack
+Frontend: HTML5,
+## **🛠 Tech Stack**
 
-Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js
-Backend: Node.js, Express.js, MongoDB, PostgreSQLDev Tools: Git, Docker, Postman, VS Code
-OtherSkills: REST APIs, Authentication (JWT, OAuth), Deployment (Vercel, Heroku)
+**🖥️ Frontend:** *HTML5, CSS3, JavaScript (ES6+), React.js, Next.js*  
+**⚙️ Backend:** *Node.js, Express.js, MongoDB, PostgreSQL*  
+**🛠️ Dev Tools:** *Git, Docker, Postman, VS Code*  
+**🔐 Other Skills:** *REST APIs, Authentication (JWT, OAuth), Deployment (Vercel, Heroku)*
+
+
 )
 ---
 💼 Projects
