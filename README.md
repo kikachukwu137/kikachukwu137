@@ -14,8 +14,7 @@ I'm passionate and skilled developer with a solid foundation in HTML, CSS, JavaS
 - 📫 You can [view my resume](https://docs.google.com/document/d/1Ck-jzcz977D-MWtU1wbUxsVHR5vwXxrq/edit?usp=sharing&ouid=115635653413489596431&rtpof=true&sd=true) and contact me by emailing egwaoje.daniel@gmail.com.
 
 ---
-🛠 Tech Stack
-Frontend: HTML5,
+
 ## **🛠 Tech Stack**
 
 **🖥️ Frontend:** *HTML5, CSS3, JavaScript (ES6+), React.js, Next.js*  
@@ -24,7 +23,7 @@ Frontend: HTML5,
 **🔐 Other Skills:** *REST APIs, Authentication (JWT, OAuth), Deployment (Vercel, Heroku)*
 
 
-)
+
 ---
 💼 Projects
 
