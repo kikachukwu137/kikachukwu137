@@ -8,12 +8,32 @@ I'm passionate and skilled developer with a solid foundation in HTML, CSS, JavaS
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: Graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 Proficient in HTML5, CSS, JavaScript, React and Nodejs
+- 🌱 Currently mastering: TypeScript, Docker, and Cloud Computing.
 - 😊 I’m looking for help with open source projects,  internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer or Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1Ck-jzcz977D-MWtU1wbUxsVHR5vwXxrq/edit?usp=sharing&ouid=115635653413489596431&rtpof=true&sd=true) and contact me by emailing egwaoje.daniel@gmail.com.
 
 ---
+🛠 Tech Stack
+
+Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js
+Backend: Node.js, Express.js, MongoDB, PostgreSQLDev Tools: Git, Docker, Postman, VS Code
+OtherSkills: REST APIs, Authentication (JWT, OAuth), Deployment (Vercel, Heroku)
+)
+---
+💼 Projects
+
+1️⃣ Blog Authentication API (Node.js, Express, MongoDB)
+
+🔹 Features: User sign-up, login, authentication, and role-based authorization.🔹 GitHub Repo
+
+2️⃣ Wallet Transaction System (Node.js, MongoDB, JWT)
+
+🔹 Features: Secure user wallets, transaction history, balance tracking.🔹 GitHub Repo
+
+
+---
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=kikachukwu137&show_icons=true&include_all_commits=true&hide_border=true" alt="daniel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikachukwu137&langs_count=8&layout=compact&hide_border=true" alt="daniel's GitHub stats" /> |
 | ------------- | ------------- |
